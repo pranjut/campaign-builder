@@ -21,7 +21,7 @@ libraryDependencies ++= {
     "com.typesafe.akka"       %%  "akka-actor"    % akkaV,
     "com.typesafe.akka"       %%  "akka-testkit"  % akkaV   % "test",
     "org.specs2"              %%  "specs2-core"   % "2.3.7" % "test",
-    "io.spray"                %%  "spray-json"    % "1.2.5",
+    "io.spray"                %%  "spray-json"    % "1.2.6",
     "org.reactivemongo"       %%  "reactivemongo" % "0.10.0",
     "com.github.nscala-time"  %%  "nscala-time"   % "0.6.0",
     "com.amazonaws"           %   "aws-java-sdk"  % "1.7.4"
